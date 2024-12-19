@@ -1,9 +1,9 @@
 ![](1553247_c69a6.gif)
 # ☄️ Scientific Conference COC 
 
-<p>
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=%20DESENVOLVIMENTO&color=purple&style=for-the-badge"/>
-</p>
+<p>🤓This was my first ever project, designed while in high school!</p>
+<p>🚀The first version was made in my second year, for the scool anual scientific conference. The goal was to count how many people have visited a student presentation.</p>
+<p>💸The website worked so well, that in my third year the school paid me to develop this simpler and more efficient version, to use every year!</p>
 
 # 💻 Techniques and technologies used
 
